@@ -1,4 +1,4 @@
-# LLM opensorce:papers,datasets,code,etc.
+# LLM(large language model) opensorce:papers,datasets,code,etc.
 LLM: http://yqli.tech/page/aigc_llm.html \
 Paper\
 ![paper](main1.jpg) \
